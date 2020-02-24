@@ -1,0 +1,11 @@
+/* 
+  InfoPlist.strings
+  TWMaskData
+  
+  Created by Administrator on 2020/2/23.
+  Copyright © 2020 benjenq. All rights reserved.
+
+*/
+
+"CFBundleDisplayName" = "MaskData";
+"NSLocationWhenInUseUsageDescription" = "Tap \"Allow\" to apply Location Service";

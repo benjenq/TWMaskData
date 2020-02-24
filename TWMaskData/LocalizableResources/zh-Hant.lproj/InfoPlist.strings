@@ -1,0 +1,12 @@
+/* 
+  InfoPlist.strings
+  TWMaskData
+  
+  Created by Administrator on 2020/2/23.
+  Copyright © 2020 benjenq. All rights reserved.
+
+
+*/
+
+"CFBundleDisplayName" = "口罩之亂";
+"NSLocationWhenInUseUsageDescription" = "開啟定位服務可在地圖上顯示現在位置，請允許開啟定位服務";

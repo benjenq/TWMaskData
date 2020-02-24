@@ -1,0 +1,20 @@
+/* 
+  Localizable.strings
+  TWMaskData
+  
+  Created by Administrator on 2020/2/23.
+  Copyright © 2020 benjenq. All rights reserved.
+
+*/
+
+"DATABASE_NAME" = "maskdata.db";
+"APIURL" = "https://data.nhi.gov.tw/Datasets/Download.ashx?rid=A21030000I-D50001-001&l=https://data.nhi.gov.tw/resource/mask/maskdata.csv";
+//"APIURL" = "https://data.nhi.gov.tw/resource/mask/maskdata.csv";
+
+"OPENSETTINGS" = "Settings";
+"ERROR" = "Error";
+"CLOSE" = "Close";
+"CANCEL" = "Cancel";
+"WARNING" = "Warning";
+"NAVIGATION_TITLE" = "Mask Stock";
+"Private Location" = "[Privacy] - [Location] to allow permission." ;

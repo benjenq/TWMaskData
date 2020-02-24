@@ -1,0 +1,20 @@
+/* 
+  Localizable.strings
+  TWMaskData
+  
+  Created by Administrator on 2020/2/23.
+  Copyright © 2020 benjenq. All rights reserved.
+
+*/
+
+"DATABASE_NAME" = "maskdata.db";
+"APIURL" = "https://data.nhi.gov.tw/Datasets/Download.ashx?rid=A21030000I-D50001-001&l=https://data.nhi.gov.tw/resource/mask/maskdata.csv";
+//"APIURL" = "https://data.nhi.gov.tw/resource/mask/maskdata.csv";
+
+"OPENSETTINGS" = "設定";
+"ERROR" = "錯誤";
+"CLOSE" = "關閉";
+"CANCEL" = "取消";
+"WARNING" = "警告";
+"NAVIGATION_TITLE" = "口罩之亂地圖";
+"Private Location" = "請開啟「設定」-「隱私權」-「定位服務」" ;
